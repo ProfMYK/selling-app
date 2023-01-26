@@ -1,8 +1,16 @@
 <template>
-  <div class="w-full flex flex-col justify-center items-center p-3">
+  <div class="w-full flex justify-center items-center p-3 gap-3 h-max">
     <!-- Sorting Options -->
-    <SortingOptions @sort-items="sortItems" @change-type="changeType" />
-    <ShoppingItems :items="items" />
+    <div class="bg-gray-100 p-3 flex flex-col w-96 text-left">
+      <!-- Searching options -->
+      <p>jhudfsugh iudshfuighdfg</p>
+      <h1>ijiadsjfj aoisdjifj sd</h1>
+      <h2>idjfg jdfjgi djifjghidf jgij</h2>
+    </div>
+    <div class="">
+      <SortingOptions @sort-items="sortItems" @change-type="changeType" />
+      <ShoppingItems :items="items" />
+    </div>
   </div>
 </template>
 
