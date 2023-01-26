@@ -1,0 +1,126 @@
+{
+  "3x3": [
+    {
+      "id": "1",
+      "name": "MoYu RS3 M 2020 3x3 Magnetic",
+      "brand": "MoYu",
+      "color": "Stickerless",
+      "magnetic": true,
+      "price": 8.99,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/MoYu-RS3-M-2020-3x3-Magnetic-Stickerless-Bright.jpg?v=1674184973",
+      "description": "MoYu RS3 M 2020 3x3 Magnetic is arguably the best bang for your buck and is no surprise that it is our best-selling speed cube."
+    },
+    {
+      "id": "2",
+      "name": "JPerm RS3 M 2020 3x3 Magnetic",
+      "brand": "MoYu",
+      "color": "Stickerless",
+      "magnetic": true,
+      "price": 24.99,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/JPerm-RS3-M-2020-3x3-Magnetic-Stickerless-Bright.jpg?v=1674270659",
+      "description": "Love JPerm? Now you can get a replica of his main speed cube, the MoYu RS3 M 2020 3x3, and support the JPerm YouTube Channel at the same time!"
+    },
+    {
+      "id": "3",
+      "name": "YuXin Little Magic 3x3",
+      "brand": "YuXin",
+      "color": "Stickered",
+      "magnetic": false,
+      "price": 4.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/YuXin-Little-Magic-3x3-Stickerless-Bright.jpg?v=1670653911",
+      "description": "YuXin Little Magic 3x3 has stood the test of time and is still the preferred choice of some beginners after its release in 2017."
+    },
+    {
+      "id": "4",
+      "name": "GAN 11 Pro 3x3 Magnetic",
+      "brand": "GAN",
+      "color": "Stickerless",
+      "magnetic": true,
+      "price": 54.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/GAN-11-Pro-3x3-Magnetic.jpg?v=1674185332",
+      "description": "YuXin Little Magic 3x3 has stood the test of time and is still the preferred choice of some beginners after its release in 2017."
+    },
+    {
+      "id": "5",
+      "name": "QiYi MS 3x3 Magnetic",
+      "brand": "QiYi",
+      "color": "Stickered",
+      "magnetic": true,
+      "price": 7.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/QiYi-MS-3x3-Magnetic-4.jpg?v=1674184705",
+      "description": "QiYi MS 3x3 Magnetic is an entry-level speed cube that performs nearly as well as a mid-level!"
+    },
+    {
+      "id": "6",
+      "name": "MoYu RS3 M 2021 3x3 Magnetic (MagLev)",
+      "brand": "MoYu",
+      "color": "Stickerless",
+      "magnetic": true,
+      "price": 13.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/MoYu-RS3-M-2021-3x3-Magnetic-MagLev-Stickerless-Bright.jpg?v=1674186595",
+      "description": "MoYu RS3 M 2021 3x3 Magnetic (MagLev) is an update of our best-selling 3x3 -- the RS3 M 2020."
+    }
+  ],
+  "2x2": [
+    {
+      "id": "1",
+      "name": "YJ MGC 2x2 Magnetic",
+      "brand": "YJ",
+      "color": "Stickerless",
+      "magnetic": true,
+      "price": 9.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/YJ-MGC-2x2-Magnetic-Stickerless-Bright.jpg?v=1674184960",
+      "description": "YJ MGC 2x2 Magnetic is a smash hit and even rivals higher-end 2x2 speedcubes despite the low price point."
+    },
+    {
+      "id": "2",
+      "name": "QiYi MS 2x2 Magnetic",
+      "brand": "QiYi",
+      "color": "Stickered",
+      "magnetic": true,
+      "price": 6.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/QiYi-MS-2x2-Magnetic-4.jpg?v=1674184737",
+      "description": "QiYi MS 2x2 Magnetic Speedcube is a part of the new budget MS series! The MS series really took us by surprise as the amount of performance that you are getting for the price is an INSANE value. The turning of this 2x2 is very smooth and the moderate magnets do a great job of preventing lock-ups and overturning. The unique, hollow turning feel is one of our favorite characteristics of the MS 2x2!"
+    },
+    {
+      "id": "3",
+      "name": "YJ YuPo V2 2x2 Magnetic",
+      "brand": "YJ",
+      "color": "Stickerless",
+      "magnetic": true,
+      "price": 6.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/YJ-YuPo-V2-2x2-Magnetic-Stickerless-Bright.jpg?v=1674270197",
+      "description": "The YuPo 2x2 used to dominate the budget market, so we are excited that the YuPo received a refresh! The YJ YuPo V2 2x2 Magnetic retains a similar feel to the original but feels slightly more flexible. The addition of light-strength magnets improves turning and stability."
+    },
+    {
+      "id": "4",
+      "name": "YuXin Little Magic 2x2",
+      "brand": "YuXin",
+      "color": "Stickerless",
+      "magnetic": false,
+      "price": 4.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/YuXin-Little-Magic-2x2-Stickerless-Bright.jpg?v=1670653911",
+      "description": "You have probably heard of the legendary Little Magic 3x3... Introducing the YuXin Little Magic 2x2! This item has all of the best features of the 3x3 version which results in a smooth, controllable, and stable budget 2x2."
+    },
+    {
+      "id": "5",
+      "name": "YJ MGC Elite 2x2 Magnetic",
+      "brand": "YJ",
+      "color": "Stickerless",
+      "magnetic": true,
+      "price": 19.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/YJ-MGC-Elite-2x2-Magnetic-Black-2.jpg?v=1674270468",
+      "description": "YJ MGC Elite 2x2 Magnetic is the world's first 2x2 to feature a center-edge magnet design which is really cool! The Elite is the smoothest turning 2x2 in our opinion and the lightweight design is stable and easy to handle. The magnets feel very unique feel due to the center-edge magnets and are moderate/strong."
+    },
+    {
+      "id": "6",
+      "name": "MoFang JiaoShi MeiLong 2x2",
+      "brand": "MoYu",
+      "color": "Stickered",
+      "magnetic": false,
+      "price": 3.95,
+      "image": "https://cdn.shopify.com/s/files/1/0978/8602/products/MoFang-JiaoShi-MeiLong-2x2-Black-3_1d9b0333-537c-4ce3-a725-027564cbf372.jpg?v=1657657290",
+      "description": "The MoFang JiaoShi MeiLong 2x2 is a new entry-level 2x2. The MeiLong 2x2 features vibrant Stickerless shades and smooth, fast turning suitable for newer speedcubers."
+    }
+  ]
+}
